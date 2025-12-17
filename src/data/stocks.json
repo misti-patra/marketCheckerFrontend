@@ -68,5 +68,76 @@
     "diff50DMA": -2.1,
     "above200DMA": true,
     "diff200DMA": 6.8
-  }
+  },
+
+{
+  "ticker": "TITAN",
+  "fullName": "Titan Company Limited",
+  "exchange": "NSE",
+  "currentPrice": 3650,
+  "above10DMA": true,
+  "diff10DMA": 1.9,
+  "above30DMA": true,
+  "diff30DMA": 0.8,
+  "above50DMA": false,
+  "diff50DMA": -1.3,
+  "above200DMA": true,
+  "diff200DMA": 10.2
+},
+{
+  "ticker": "TATAELXSI",
+  "fullName": "Tata Elxsi Limited",
+  "exchange": "NSE",
+  "currentPrice": 7850,
+  "above10DMA": false,
+  "diff10DMA": -2.1,
+  "above30DMA": true,
+  "diff30DMA": 1.2,
+  "above50DMA": true,
+  "diff50DMA": 0.4,
+  "above200DMA": true,
+  "diff200DMA": 14.6
+},
+{
+  "ticker": "INDIANHOTEL",
+  "fullName": "Indian Hotels Company Limited",
+  "exchange": "NSE",
+  "currentPrice": 585,
+  "above10DMA": true,
+  "diff10DMA": 3.4,
+  "above30DMA": true,
+  "diff30DMA": 2.2,
+  "above50DMA": true,
+  "diff50DMA": 1.6,
+  "above200DMA": true,
+  "diff200DMA": 22.8
+},
+{
+  "ticker": "TATACHEM",
+  "fullName": "Tata Chemicals Limited",
+  "exchange": "NSE",
+  "currentPrice": 1120,
+  "above10DMA": false,
+  "diff10DMA": -1.5,
+  "above30DMA": false,
+  "diff30DMA": -2.7,
+  "above50DMA": false,
+  "diff50DMA": -3.9,
+  "above200DMA": true,
+  "diff200DMA": 5.4
+},
+{
+  "ticker": "TATACOMM",
+  "fullName": "Tata Communications Limited",
+  "exchange": "NSE",
+  "currentPrice": 1780,
+  "above10DMA": true,
+  "diff10DMA": 2.6,
+  "above30DMA": true,
+  "diff30DMA": 1.9,
+  "above50DMA": true,
+  "diff50DMA": 0.7,
+  "above200DMA": false,
+  "diff200DMA": -4.2
+}
 ]
