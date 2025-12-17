@@ -1,0 +1,72 @@
+[
+  {
+    "ticker": "TCS",
+    "fullName": "Tata Consultancy Services",
+    "exchange": "NSE",
+    "currentPrice": 3840,
+    "above10DMA": true,
+    "diff10DMA": 2.8,
+    "above30DMA": true,
+    "diff30DMA": 1.5,
+    "above50DMA": false,
+    "diff50DMA": -0.9,
+    "above200DMA": true,
+    "diff200DMA": 12.4
+  },
+  {
+    "ticker": "TATAMOTORS",
+    "fullName": "Tata Motors Limited",
+    "exchange": "NSE",
+    "currentPrice": 965,
+    "above10DMA": true,
+    "diff10DMA": 3.2,
+    "above30DMA": true,
+    "diff30DMA": 1.1,
+    "above50DMA": true,
+    "diff50DMA": 0.6,
+    "above200DMA": false,
+    "diff200DMA": -4.5
+  },
+  {
+    "ticker": "TATASTEEL",
+    "fullName": "Tata Steel Limited",
+    "exchange": "NSE",
+    "currentPrice": 145,
+    "above10DMA": false,
+    "diff10DMA": -1.8,
+    "above30DMA": false,
+    "diff30DMA": -3.4,
+    "above50DMA": true,
+    "diff50DMA": 0.9,
+    "above200DMA": false,
+    "diff200DMA": -7.2
+  },
+  {
+    "ticker": "TATAPOWER",
+    "fullName": "Tata Power Company Limited",
+    "exchange": "NSE",
+    "currentPrice": 412,
+    "above10DMA": true,
+    "diff10DMA": 4.6,
+    "above30DMA": true,
+    "diff30DMA": 2.9,
+    "above50DMA": true,
+    "diff50DMA": 1.4,
+    "above200DMA": true,
+    "diff200DMA": 18.7
+  },
+  {
+    "ticker": "TATACONSUM",
+    "fullName": "Tata Consumer Products Limited",
+    "exchange": "NSE",
+    "currentPrice": 1185,
+    "above10DMA": false,
+    "diff10DMA": -0.7,
+    "above30DMA": true,
+    "diff30DMA": 1.3,
+    "above50DMA": false,
+    "diff50DMA": -2.1,
+    "above200DMA": true,
+    "diff200DMA": 6.8
+  }
+]
