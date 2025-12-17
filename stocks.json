@@ -1,0 +1,72 @@
+[
+  {
+    "ticker": "TCS",
+    "fullName": "Tata Consultancy Services",
+    "exchange": "NSE",
+    "currentPrice": 3890,
+    "above10DMA": true,
+    "diff10DMA": 45,
+    "above30DMA": false,
+    "diff30DMA": -30,
+    "above50DMA": true,
+    "diff50DMA": 80,
+    "above200DMA": true,
+    "diff200DMA": 210
+  },
+  {
+    "ticker": "INFY",
+    "fullName": "Infosys Limited",
+    "exchange": "NSE",
+    "currentPrice": 1625,
+    "above10DMA": false,
+    "diff10DMA": -20,
+    "above30DMA": true,
+    "diff30DMA": 35,
+    "above50DMA": false,
+    "diff50DMA": -50,
+    "above200DMA": true,
+    "diff200DMA": 120
+  },
+  {
+    "ticker": "RELIANCE",
+    "fullName": "Reliance Industries",
+    "exchange": "NSE",
+    "currentPrice": 2875,
+    "above10DMA": true,
+    "diff10DMA": 30,
+    "above30DMA": true,
+    "diff30DMA": 65,
+    "above50DMA": true,
+    "diff50DMA": 120,
+    "above200DMA": true,
+    "diff200DMA": 340
+  },
+  {
+    "ticker": "HDFCBANK",
+    "fullName": "HDFC Bank Limited",
+    "exchange": "NSE",
+    "currentPrice": 1540,
+    "above10DMA": false,
+    "diff10DMA": -15,
+    "above30DMA": false,
+    "diff30DMA": -40,
+    "above50DMA": true,
+    "diff50DMA": 25,
+    "above200DMA": true,
+    "diff200DMA": 180
+  },
+  {
+    "ticker": "ITC",
+    "fullName": "ITC Limited",
+    "exchange": "NSE",
+    "currentPrice": 465,
+    "above10DMA": true,
+    "diff10DMA": 12,
+    "above30DMA": true,
+    "diff30DMA": 22,
+    "above50DMA": false,
+    "diff50DMA": -18,
+    "above200DMA": true,
+    "diff200DMA": 95
+  }
+]
