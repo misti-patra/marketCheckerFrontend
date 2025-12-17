@@ -21,9 +21,8 @@ function StockTable() {
           <th>10 DMA</th>
           <th>30 DMA</th>
           <th>50 DMA</th>
-          <th> TEMA Crossed</th>
-
           <th>200 DMA</th>
+          <th> TEMA Crossed</th>
         </tr>
       </thead>
       <tbody>
@@ -55,16 +54,15 @@ function StockTable() {
                 {stock.above50DMA ? "Yes" : "No"}
               </td>
 
-              
-              <td>
-                <span className={`indicator ${isTEMACrossed ? "green" : "red"}`}></span>
-                {isTEMACrossed ? "Yes" : "No"}
-              </td>
 
-              {/* 200 DMA */}
               <td>
                 <span className={`indicator ${getIndicatorClass(stock.diff200DMA)}`}></span>
                 {stock.above200DMA ? "Yes" : "No"}
+              </td>
+
+              <td>
+                <span className={`indicator ${isTEMACrossed ? "green" : "red"}`}></span>
+                {isTEMACrossed ? "Yes" : "No"}
               </td>
             </tr>
           );
